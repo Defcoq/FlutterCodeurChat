@@ -23,7 +23,7 @@ class MessageListState extends State<MessageList> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('codeurchat'),
+        title: const Text('CodeurChat'),
         // TODO: Replace with actions
       ),
       body: Padding(

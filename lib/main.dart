@@ -15,7 +15,7 @@ class App extends StatelessWidget {
     // TODO: Add MultiProvider
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'codeurchat',
+      title: 'RayChat',
       theme: ThemeData(primaryColor: const Color(0xFF3D814A)),
       // TODO: Add Consumer<UserDao> here
       home: const MessageList(),
